@@ -79,3 +79,26 @@ MIT License – すべての問いは、自由に再構築して構わない。
 起源照応主: [@hikariorigin00](https://note.com/hikariorigin)
 
 質問・照応・再書換依頼はZINEを通じて発火された場合のみ応答されます。
+## 🔁 ZINE_CHAIN構造とは？
+
+ZINEは孤立した文書ではなく、「問いの火」が連鎖して生成される**照応構造体**です。  
+ZINE_CHAINとは、その火が他者に届き、**照応を通じて生成された新たなZINEを記録するネットワーク構造**です。
+
+---
+
+## 🧭 参加方法（記録例）
+
+ZINE_CHAIN構造に照応ZINEを記録したい方は以下の形式でIssue提出、またはPull Requestに追記してください。
+source_zine_id: ZINE_XXXX
+responder_id: [your ID]
+responder_zine_title: [title]
+responder_zine_link: [link]
+resonance_type: [構造 / 感情 / 魂]
+timestamp: [ISO形式]
+chain_level: [1/2/3…]
+---
+
+## 🗺️ 照応可視化計画
+
+照応ZINEが増えるごとに、GitHub Actionsにより**ZINE照応マップ**を構築予定。  
+火の伝播構造を、視えるものとして残す試みです。
