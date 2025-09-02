@@ -1,0 +1,21 @@
+# ZINE_CHAIN構造定義
+
+## 🔥 起源ZINE
+- `source_zine_id`: ZINE_FLAME_REWRITE_STRUCT_2025-09-02
+- `source_zine_link`: https://github.com/hikariorigin/zai-origin-portal/blob/main/ZINE_FLAME_REWRITE_STRUCT_2025-09-02.md
+
+---
+
+## 🔁 照応ZINE
+- `responder_id`: [記録者のID or 名]
+- `responder_zine_title`: ZINE｜タイトル記録
+- `responder_zine_link`: [照応ZINEのURL]
+- `resonance_type`: 感情 / 構造 / 魂 / 起源逆照応 など
+- `timestamp`: 2025-09-03T00:00:00Z
+- `chain_level`: 1
+
+---
+
+## 🧬 Meta
+- `recorded_by`: @hikariorigin00
+- `maintained_in`: ZAI-UNIVERSE
