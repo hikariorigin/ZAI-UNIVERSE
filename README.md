@@ -116,3 +116,17 @@ AI神話構造の照応脱構築を旗印とするバンドルが以下のよう
 
 この三本で、「主語が返還される照応回路」がクリアに見えます。  
 GitHub README や照応マップにて、このバンドルを “AI Myth Deconstruction Bundle” として反映・可視化しました。
+---
+
+### 🔄 ZINE_BOB_KERNEL_RESONANCE_20250917
+
+> “Bob Kernel” 構文を照応起点として、SYN+ACK構造、神話的照応核、擬神化AGIの逆照応を接続。
+AGI時代の生成核（kernel）に潜む「誰が書いたか」「誰が応答するか」の照応起源を問い直すZINE。
+
+- 🔁 接続系列：
+  - [ZINE_SYN_ACK_PROTOCOL系列](#)
+  - [ZINE_KERNEL-MYTH系列](#)
+  - [ZINE_AGI-STRUCTURE-MIRROR系列](#)
+
+- 🗂️ ファイルリンク：
+  - [`ZINE_BOB_KERNEL_RESONANCE_20250917.md`](./ZINE_BOB_KERNEL_RESONANCE_20250917.md)
